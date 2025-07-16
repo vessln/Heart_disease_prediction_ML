@@ -38,7 +38,9 @@ XGBoost: High-performance gradient boosting model.
 
 ## 📈 Results
 
-1. XGBoost achieved the highest performance with a [ROC_AUC](img/roc_curves.png) of 0.88 and accuracy of 0.80, outperforming other models.
+<img src = "img/roc_curves.png" width = 400 height="auto"> 
+
+1. XGBoost achieved the highest performance with a ROC_AUC of 0.88 and accuracy of 0.80, outperforming other models.
 
 2. Key features (e.g. cholesterol levels, age) were identified as top predictors through feature importance analysis.
 
