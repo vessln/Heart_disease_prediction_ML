@@ -38,7 +38,7 @@ XGBoost: High-performance gradient boosting model.
 
 ## 📈 Results
 
-<img src = "img/roc_curves.png" width = 400 height="auto"> 
+<img src = "img/roc_curves.png" width = 450 height = "auto"> <img src = "img/xgb_fi.png" width = 450 height="auto">
 
 1. XGBoost achieved the highest performance with a ROC_AUC of 0.88 and accuracy of 0.80, outperforming other models.
 
